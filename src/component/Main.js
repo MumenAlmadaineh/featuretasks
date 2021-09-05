@@ -4,6 +4,7 @@ import HornedBeast from './HornedBeast';
 class Main extends Component {
   render() {
     // let animals = [ {title:'UniWhal', imgUrl:'http://3.bp.blogspot.com/_DBYF1AdFaHw/TE-f0cDQ24I/AAAAAAAACZg/l-FdTZ6M7z8/s1600/Unicorn_and_Narwhal_by_dinglehopper.jpg', description:'A unicorn and a narwhal nuzzling their horns}, ]
+    // I try to do it put the time not help me that waht I can do it till now
     return (
       <>
         <HornedBeast title = {'UniWhal'} imgUrl = {'http://3.bp.blogspot.com/_DBYF1AdFaHw/TE-f0cDQ24I/AAAAAAAACZg/l-FdTZ6M7z8/s1600/Unicorn_and_Narwhal_by_dinglehopper.jpg'} description = {'A unicorn and a narwhal nuzzling their horns'} />
