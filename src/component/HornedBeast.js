@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+import SelectedBeast from './SelectedBeast';
 class HornedBeast extends Component {
   constructor(props) {
     super(props);
